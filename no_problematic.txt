@@ -1,4 +1,4 @@
-// BEZ PROBLEMATIČNIH KLASA
+// BEZ PROBLEMATIČNIH KLASA (33 komada)
 Evaluation completed: 2612/2612 images processed.
 Starting grid search...
 
