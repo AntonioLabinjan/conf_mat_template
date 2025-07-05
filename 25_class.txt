@@ -1,0 +1,207 @@
+Evaluation completed: 1811/1811 images processed.
+Starting grid search...
+
+Grid search completed.
+Best parameters: {}
+Best accuracy: 0.0000
+Best parameters found: {}
+Best accuracy achieved: 0
+Calculating global metrics...
+
+Accuracy: 0.9553
+F1-Score (Weighted): 0.9440
+Recall (Weighted): 0.9553
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+           1     1.0000    1.0000    1.0000        57
+          10     1.0000    1.0000    1.0000        16
+          11     1.0000    1.0000    1.0000        38
+          12     0.9494    0.9740    0.9615        77
+          13     1.0000    1.0000    1.0000         7
+          14     0.9608    1.0000    0.9800        49
+          15     0.8333    1.0000    0.9091        25
+          16     1.0000    1.0000    1.0000        13
+          17     1.0000    1.0000    1.0000        18
+          18     0.8788    1.0000    0.9355        58
+          19     0.8621    1.0000    0.9259        25
+           2     1.0000    1.0000    1.0000        67
+          20     1.0000    1.0000    1.0000        98
+          21     1.0000    1.0000    1.0000       199
+          22     1.0000    1.0000    1.0000        17
+          23     0.0000    0.0000    0.0000        49
+          24     1.0000    0.9649    0.9821       114
+          25     1.0000    0.9592    0.9792        49
+           3     0.9662    1.0000    0.9828       257
+           4     1.0000    1.0000    1.0000       249
+           5     0.7037    1.0000    0.8261        57
+           6     1.0000    1.0000    1.0000       102
+           7     1.0000    1.0000    1.0000        41
+           8     1.0000    0.6712    0.8033        73
+           9     0.7273    1.0000    0.8421        56
+     Unknown     0.0000    0.0000    0.0000         0
+
+    accuracy                         0.9553      1811
+   macro avg     0.8801    0.9065    0.8895      1811
+weighted avg     0.9391    0.9553    0.9440      1811
+
+
+Per-class TP, FP, FN, TN:
+
+Class '1':
+  TP = 57
+  FP = 0
+  FN = 0
+  TN = 1754
+
+Class '10':
+  TP = 16
+  FP = 0
+  FN = 0
+  TN = 1795
+
+Class '11':
+  TP = 38
+  FP = 0
+  FN = 0
+  TN = 1773
+
+Class '12':
+  TP = 75
+  FP = 4
+  FN = 2
+  TN = 1730
+
+Class '13':
+  TP = 7
+  FP = 0
+  FN = 0
+  TN = 1804
+
+Class '14':
+  TP = 49
+  FP = 2
+  FN = 0
+  TN = 1760
+
+Class '15':
+  TP = 25
+  FP = 5
+  FN = 0
+  TN = 1781
+
+Class '16':
+  TP = 13
+  FP = 0
+  FN = 0
+  TN = 1798
+
+Class '17':
+  TP = 18
+  FP = 0
+  FN = 0
+  TN = 1793
+
+Class '18':
+  TP = 58
+  FP = 8
+  FN = 0
+  TN = 1745
+
+Class '19':
+  TP = 25
+  FP = 4
+  FN = 0
+  TN = 1782
+
+Class '2':
+  TP = 67
+  FP = 0
+  FN = 0
+  TN = 1744
+
+Class '20':
+  TP = 98
+  FP = 0
+  FN = 0
+  TN = 1713
+
+Class '21':
+  TP = 199
+  FP = 0
+  FN = 0
+  TN = 1612
+
+Class '22':
+  TP = 17
+  FP = 0
+  FN = 0
+  TN = 1794
+
+Class '23':
+  TP = 0
+  FP = 0
+  FN = 49
+  TN = 1762
+
+Class '24':
+  TP = 110
+  FP = 0
+  FN = 4
+  TN = 1697
+
+Class '25':
+  TP = 47
+  FP = 0
+  FN = 2
+  TN = 1762
+
+Class '3':
+  TP = 257
+  FP = 9
+  FN = 0
+  TN = 1545
+
+Class '4':
+  TP = 249
+  FP = 0
+  FN = 0
+  TN = 1562
+
+Class '5':
+  TP = 57
+  FP = 24
+  FN = 0
+  TN = 1730
+
+Class '6':
+  TP = 102
+  FP = 0
+  FN = 0
+  TN = 1709
+
+Class '7':
+  TP = 41
+  FP = 0
+  FN = 0
+  TN = 1770
+
+Class '8':
+  TP = 49
+  FP = 0
+  FN = 24
+  TN = 1738
+
+Class '9':
+  TP = 56
+  FP = 21
+  FN = 0
+  TN = 1734
+
+Class 'Unknown':
+  TP = 0
+  FP = 4
+  FN = 0
+  TN = 1807
