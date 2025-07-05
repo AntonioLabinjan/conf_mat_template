@@ -1,4 +1,5 @@
 PERFORMANSE; OD TEGA PLOTTAT CONFUSION MATRICE
+// SA 25 KLASA
 Evaluation completed: 1811/1811 images processed.
 Starting grid search...
 
