@@ -1,3 +1,3 @@
 - samo zračunat tpr i fpr od ovega ča iman; matrixe i ciao
-- Vidit dali bin riva izvuć kakov ROC pole forši
+- izvuć nešto korisno iz all classes txt
 - ukomponirat u paper naravno
