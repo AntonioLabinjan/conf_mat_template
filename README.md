@@ -1,3 +1,4 @@
 - plottat ča više matrixa
 - Vidit dali bin riva izvuć kakov ROC pole forši
 - ukomponirat u paper naravno
+- u commit message ću zapisat nešto jako zanimljivo
