@@ -1,0 +1,2 @@
+plottat ča više matrixa
+Vidit dali bin riva izvuć kakov ROC pole forši
