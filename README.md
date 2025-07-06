@@ -1,2 +1,3 @@
-plottat ča više matrixa
-Vidit dali bin riva izvuć kakov ROC pole forši
+- plottat ča više matrixa
+- Vidit dali bin riva izvuć kakov ROC pole forši
+- ukomponirat u paper naravno
