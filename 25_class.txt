@@ -57,153 +57,205 @@ Class '1':
   FP = 0
   FN = 0
   TN = 1754
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '10':
   TP = 16
   FP = 0
   FN = 0
   TN = 1795
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '11':
   TP = 38
   FP = 0
   FN = 0
   TN = 1773
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '12':
   TP = 75
   FP = 4
   FN = 2
   TN = 1730
+  TPR = 0.9740
+  FPR = 0.0023
 
 Class '13':
   TP = 7
   FP = 0
   FN = 0
   TN = 1804
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '14':
   TP = 49
   FP = 2
   FN = 0
   TN = 1760
+  TPR = 1.0000
+  FPR = 0.0011
 
 Class '15':
   TP = 25
   FP = 5
   FN = 0
   TN = 1781
+  TPR = 1.0000
+  FPR = 0.0028
 
 Class '16':
   TP = 13
   FP = 0
   FN = 0
   TN = 1798
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '17':
   TP = 18
   FP = 0
   FN = 0
   TN = 1793
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '18':
   TP = 58
   FP = 8
   FN = 0
   TN = 1745
+  TPR = 1.0000
+  FPR = 0.0046
 
 Class '19':
   TP = 25
   FP = 4
   FN = 0
   TN = 1782
+  TPR = 1.0000
+  FPR = 0.0022
 
 Class '2':
   TP = 67
   FP = 0
   FN = 0
   TN = 1744
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '20':
   TP = 98
   FP = 0
   FN = 0
   TN = 1713
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '21':
   TP = 199
   FP = 0
   FN = 0
   TN = 1612
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '22':
   TP = 17
   FP = 0
   FN = 0
   TN = 1794
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '23':
   TP = 0
   FP = 0
   FN = 49
   TN = 1762
+  TPR = 0.0000
+  FPR = 0.0000
 
 Class '24':
   TP = 110
   FP = 0
   FN = 4
   TN = 1697
+  TPR = 0.9643
+  FPR = 0.0000
 
 Class '25':
   TP = 47
   FP = 0
   FN = 2
   TN = 1762
+  TPR = 0.9592
+  FPR = 0.0000
 
 Class '3':
   TP = 257
   FP = 9
   FN = 0
   TN = 1545
+  TPR = 1.0000
+  FPR = 0.0058
 
 Class '4':
   TP = 249
   FP = 0
   FN = 0
   TN = 1562
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '5':
   TP = 57
   FP = 24
   FN = 0
   TN = 1730
+  TPR = 1.0000
+  FPR = 0.0137
 
 Class '6':
   TP = 102
   FP = 0
   FN = 0
   TN = 1709
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '7':
   TP = 41
   FP = 0
   FN = 0
   TN = 1770
+  TPR = 1.0000
+  FPR = 0.0000
 
 Class '8':
   TP = 49
   FP = 0
   FN = 24
   TN = 1738
+  TPR = 0.6712
+  FPR = 0.0000
 
 Class '9':
   TP = 56
   FP = 21
   FN = 0
   TN = 1734
+  TPR = 1.0000
+  FPR = 0.0119
 
 Class 'Unknown':
   TP = 0
   FP = 4
   FN = 0
   TN = 1807
+  TPR = 0.0000
+  FPR = 0.0022
